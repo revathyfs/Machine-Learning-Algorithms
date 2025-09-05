@@ -1,13 +1,6 @@
 # Machine-Learning-Algorithms
 Notes for basic Machine learning algorithms
 
-## Agenda
-1. Introduction to ML (AI Vs ML Vs DL Vs DS)
-2. Supervised ML and Unsupervised ML
-3. Linear Regression (Maths & Geometric Intuition)
-4. R2 & Adjusted R2
-5. Ridge and Lasso Regression
-
 #### Reference :
 https://www.youtube.com/watch?v=JxgmHe2NyeY&list=PPSV 
 
